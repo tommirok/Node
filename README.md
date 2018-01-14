@@ -1,6 +1,7 @@
 # Node
 
-Just my first node project in which im going to build nodeserver and REST API.
+Just my first node project in which im going to build node rest api
 
-First for some googlesheets and later for some graphql base.
+
+
 
